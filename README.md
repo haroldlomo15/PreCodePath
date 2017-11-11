@@ -3,5 +3,5 @@
 Enter your bill amount
 Toggle the segmented controller to 
 
-<a href="https://imgur.com/a/otHyM"><img src= "https://imgur.com/a/otHyM" title= "Tipping App"/></a>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
