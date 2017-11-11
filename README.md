@@ -3,5 +3,5 @@
 Enter your bill amount
 Toggle the segmented controller to 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://firebasestorage.googleapis.com/v0/b/datasto-61f2f.appspot.com/o/tippingGif.gif?alt=media&token=1c36b15c-2677-4cb6-9402-fd53b2feff66" />
 
