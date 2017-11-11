@@ -3,5 +3,5 @@
 Enter your bill amount
 Toggle the segmented controller to 
 
-![Alt Text](https://imgur.com/a/otHyM.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
